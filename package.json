@@ -1,0 +1,16 @@
+{
+  "name": "verify-contract",
+  "version": "1.0.0",
+  "description": "Verify your smart contract using the Thirdweb SDK",
+  "main": "verify.js",
+  "type": "module",
+  "scripts": {
+    "start": "node verify.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "thirdweb": "^5.10.1"
+  }
+}
